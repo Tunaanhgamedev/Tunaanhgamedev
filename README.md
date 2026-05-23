@@ -1,7 +1,7 @@
-# Hi 👋 I'm Tuấn Anh
-🎮 Aspiring Game Developer passionate about gameplay programming, software development, and interactive applications.
+# Xin chào 👋 Tôi là Tuấn Anh
 
-I enjoy building game projects with Unity and exploring backend/frontend technologies through personal projects.
+🎮 Lập trình viên định hướng phát triển Game Developer với niềm đam mê xây dựng gameplay systems, phát triển phần mềm và các ứng dụng tương tác.
+Tôi yêu thích phát triển các dự án game bằng Unity và tìm hiểu thêm về các công nghệ backend/frontend thông qua những dự án cá nhân.
 
 ---
 
@@ -51,7 +51,7 @@ I enjoy building game projects with Unity and exploring backend/frontend technol
 # 🎮 Dự án nổi bật
 
 ## 🔫 Shooter2D
-Game bắn súng top-down 2D phát triển bằng Unity và C#.
+Game bắn súng top-down 2D được phát triển bằng Unity và C#.
 
 ### ✨ Tính năng
 - Enemy AI
@@ -72,7 +72,7 @@ https://github.com/Tunaanhgamedev/Shooter2D
 ---
 
 ## ⚔️ 2D_TopDown
-Game survival top-down phát triển bằng Unity.
+Game sinh tồn góc nhìn top-down được phát triển bằng Unity.
 
 ### ✨ Tính năng
 - Physics2D movement
@@ -92,14 +92,40 @@ https://github.com/Tunaanhgamedev/2D_TopDown
 
 ---
 
-## 🥬 Veggie
-Website quản lý mua bán rau củ phát triển bằng Laravel.
+## 📘 AV_EngApp
+Nền tảng học tiếng Anh tích hợp AI được phát triển và triển khai bằng Next.js.
 
 ### ✨ Tính năng
-- Dynamic UI
+- Học từ vựng tiếng Anh
+- Luyện Speaking
+- AI Tutor hỗ trợ học tập
+- Authentication system
+- Responsive UI
+- Triển khai và deploy ứng dụng thực tế
+
+### 🛠 Công nghệ
+- Next.js
+- TypeScript
+- Node.js
+- PostgreSQL
+- Supabase
+- Firebase Auth
+- Gemini AI
+- Render Deployment
+
+🔗 Repository:
+https://github.com/Tunaanhgamedev/AV_EngApp
+
+---
+
+## 🥬 Veggie
+Website quản lý và mua bán rau củ được phát triển bằng Laravel.
+
+### ✨ Tính năng
+- Giao diện động
 - AJAX interaction
 - Responsive design
-- CRUD functionality
+- Chức năng CRUD
 
 ### 🛠 Công nghệ
 - PHP Laravel
@@ -113,10 +139,10 @@ https://github.com/Tunaanhgamedev/Veggie
 ---
 
 ## 🎬 Cinema
-Website xem phim phát triển bằng Java Servlet.
+Website xem phim được phát triển bằng Java Servlet.
 
 ### ✨ Tính năng
-- Movie browsing interface
+- Giao diện duyệt phim
 - Dynamic rendering
 - Responsive web layout
 - ChatBot AI
@@ -134,7 +160,7 @@ https://github.com/Tunaanhgamedev/Cinema
 
 # 📚 Định hướng phát triển
 
-- Game Development
+- Phát triển game
 - Gameplay Programming
 - Backend Development
 - Interactive Application Development
@@ -149,4 +175,4 @@ https://github.com/Tunaanhgamedev/Cinema
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Cảm ơn bạn đã ghé thăm hồ sơ GitHub của tôi!
