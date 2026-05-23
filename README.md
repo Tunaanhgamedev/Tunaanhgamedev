@@ -22,10 +22,9 @@ Tôi yêu thích phát triển các dự án game bằng Unity và tìm hiểu t
 - C#
 - C/C++
 - Java
-- JavaScript
+- HTML/CSS/JavaScript
 - PHP
 - SQL
-- HTML/CSS
 
 ---
 
@@ -62,8 +61,7 @@ Game bắn súng top-down 2D được phát triển bằng Unity và C#.
 - Physics2D interaction
 
 ### 🛠 Công nghệ
-- Unity
-- C#
+- C#, Unity
 - Git/GitHub
 
 🔗 Repository:
@@ -82,8 +80,7 @@ Game sinh tồn góc nhìn top-down được phát triển bằng Unity.
 - Scene transition
 
 ### 🛠 Công nghệ
-- Unity
-- C#
+- C#, Unity
 - Animator
 - Physics2D
 
@@ -97,7 +94,7 @@ Nền tảng học tiếng Anh tích hợp AI được phát triển và triển
 
 ### ✨ Tính năng
 - Học từ vựng tiếng Anh
-- Luyện Speaking
+- Luyện Listening, Reading, Writing và Speaking
 - AI Tutor hỗ trợ học tập
 - Authentication system
 - Responsive UI
@@ -112,6 +109,7 @@ Nền tảng học tiếng Anh tích hợp AI được phát triển và triển
 - Firebase Auth
 - Gemini AI
 - Render Deployment
+- Vercel Deployment
 
 🔗 Repository:
 https://github.com/Tunaanhgamedev/AV_EngApp
@@ -126,12 +124,14 @@ Website quản lý và mua bán rau củ được phát triển bằng Laravel.
 - AJAX interaction
 - Responsive design
 - Chức năng CRUD
+- AI ChatBot hỗ trợ người dùng
+- Quản lý sản phẩm và dữ liệu
 
 ### 🛠 Công nghệ
 - PHP Laravel
 - AJAX
-- JavaScript
-- HTML/CSS
+- HTML/CSS/JavaScript
+- AI ChatBot Integration
 
 🔗 Repository:
 https://github.com/Tunaanhgamedev/Veggie
@@ -145,13 +145,12 @@ Website xem phim được phát triển bằng Java Servlet.
 - Giao diện duyệt phim
 - Dynamic rendering
 - Responsive web layout
-- ChatBot AI
+- ChatBot AI hỗ trợ người dùng
 
 ### 🛠 Công nghệ
 - Java Servlet
 - Java
-- HTML/CSS
-- JavaScript
+- HTML/CSS/JavaScript
 
 🔗 Repository:
 https://github.com/Tunaanhgamedev/Cinema
