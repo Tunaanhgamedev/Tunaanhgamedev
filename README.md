@@ -1,5 +1,4 @@
-# Hi 👋 I'm Anh Tuấn
-
+# Hi 👋 I'm Tuấn Anh
 🎮 Aspiring Game Developer passionate about gameplay programming, software development, and interactive applications.
 
 I enjoy building game projects with Unity and exploring backend/frontend technologies through personal projects.
