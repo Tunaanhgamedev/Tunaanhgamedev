@@ -1,13 +1,13 @@
 # Xin chào 👋 Tôi là Tuấn Anh
 
-🎮 Lập trình viên định hướng phát triển Game Developer với niềm đam mê xây dựng gameplay systems, phát triển phần mềm và các ứng dụng tương tác.
+Lập trình viên định hướng phát triển Game Developer với niềm đam mê xây dựng gameplay systems, phát triển phần mềm và các ứng dụng tương tác.
 Tôi yêu thích phát triển các dự án game bằng Unity và tìm hiểu thêm về các công nghệ backend/frontend thông qua những dự án cá nhân.
 
 ---
 
-# 🚀 Kỹ năng chuyên môn
+# Kỹ năng chuyên môn
 
-## 🎮 Phát triển game
+## Phát triển game
 - Unity Engine
 - Gameplay Programming
 - Physics2D
@@ -18,7 +18,7 @@ Tôi yêu thích phát triển các dự án game bằng Unity và tìm hiểu t
 
 ---
 
-## 💻 Ngôn ngữ lập trình
+## Ngôn ngữ lập trình
 - C#
 - C/C++
 - Java
@@ -28,7 +28,7 @@ Tôi yêu thích phát triển các dự án game bằng Unity và tìm hiểu t
 
 ---
 
-## 🌐 Phát triển web
+## Phát triển web
 - ReactJS cơ bản
 - ExpressJS cơ bản
 - Java Servlet
@@ -38,7 +38,7 @@ Tôi yêu thích phát triển các dự án game bằng Unity và tìm hiểu t
 
 ---
 
-## 🛠 Công cụ & Công nghệ
+## Công cụ & Công nghệ
 - Git/GitHub
 - PostgreSQL cơ bản
 - Firebase cơ bản
@@ -47,12 +47,12 @@ Tôi yêu thích phát triển các dự án game bằng Unity và tìm hiểu t
 
 ---
 
-# 🎮 Dự án nổi bật
+# Dự án nổi bật
 
-## 🔫 Shooter2D
+## Shooter2D
 Game bắn súng top-down 2D được phát triển bằng Unity và C#.
 
-### ✨ Tính năng
+### Tính năng
 - Enemy AI
 - Combat system
 - Weapon system
@@ -60,39 +60,39 @@ Game bắn súng top-down 2D được phát triển bằng Unity và C#.
 - Scene management
 - Physics2D interaction
 
-### 🛠 Công nghệ
+### Công nghệ
 - C#, Unity
 - Git/GitHub
 
-🔗 Repository:
+Repository:
 https://github.com/Tunaanhgamedev/Shooter2D
 
 ---
 
-## ⚔️ 2D_TopDown
+## 2D_TopDown
 Game sinh tồn góc nhìn top-down được phát triển bằng Unity.
 
-### ✨ Tính năng
+### Tính năng
 - Physics2D movement
 - Animation system
 - Enemy interaction
 - Gameplay systems
 - Scene transition
 
-### 🛠 Công nghệ
+### Công nghệ
 - C#, Unity
 - Animator
 - Physics2D
 
-🔗 Repository:
+Repository:
 https://github.com/Tunaanhgamedev/2D_TopDown
 
 ---
 
-## 📘 AV_EngApp
+## AV_EngApp
 Nền tảng học tiếng Anh tích hợp AI được phát triển và triển khai bằng Next.js.
 
-### ✨ Tính năng
+### Tính năng
 - Học từ vựng tiếng Anh
 - Luyện Listening, Reading, Writing và Speaking
 - AI Tutor hỗ trợ học tập
@@ -100,7 +100,7 @@ Nền tảng học tiếng Anh tích hợp AI được phát triển và triển
 - Responsive UI
 - Triển khai và deploy ứng dụng thực tế
 
-### 🛠 Công nghệ
+### Công nghệ
 - Next.js
 - TypeScript
 - Node.js
@@ -111,15 +111,15 @@ Nền tảng học tiếng Anh tích hợp AI được phát triển và triển
 - Render Deployment
 - Vercel Deployment
 
-🔗 Repository:
+Repository:
 https://github.com/Tunaanhgamedev/AV_EngApp
 
 ---
 
-## 🥬 Veggie
+## Veggie
 Website quản lý và mua bán rau củ được phát triển bằng Laravel.
 
-### ✨ Tính năng
+### Tính năng
 - Giao diện động
 - AJAX interaction
 - Responsive design
@@ -127,37 +127,37 @@ Website quản lý và mua bán rau củ được phát triển bằng Laravel.
 - AI ChatBot hỗ trợ người dùng
 - Quản lý sản phẩm và dữ liệu
 
-### 🛠 Công nghệ
+### Công nghệ
 - PHP Laravel
 - AJAX
 - HTML/CSS/JavaScript
 - AI ChatBot Integration
 
-🔗 Repository:
+Repository:
 https://github.com/Tunaanhgamedev/Veggie
 
 ---
 
-## 🎬 Cinema
+## Cinema
 Website xem phim được phát triển bằng Java Servlet.
 
-### ✨ Tính năng
+### Tính năng
 - Giao diện duyệt phim
 - Dynamic rendering
 - Responsive web layout
 - ChatBot AI hỗ trợ người dùng
 
-### 🛠 Công nghệ
+### Công nghệ
 - Java Servlet
 - Java
 - HTML/CSS/JavaScript
 
-🔗 Repository:
+Repository:
 https://github.com/Tunaanhgamedev/Cinema
 
 ---
 
-# 📚 Định hướng phát triển
+# Định hướng phát triển
 
 - Phát triển game
 - Gameplay Programming
@@ -167,7 +167,7 @@ https://github.com/Tunaanhgamedev/Cinema
 
 ---
 
-# 📫 Liên hệ
+# Liên hệ
 
 - GitHub: https://github.com/Tunaanhgamedev
 - Email: anh2005qpqb@gmail.com
