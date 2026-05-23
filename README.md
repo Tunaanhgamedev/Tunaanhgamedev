@@ -93,7 +93,7 @@ https://github.com/Tunaanhgamedev/2D_TopDown
 ---
 
 ## 🥬 Veggie
-Website quản lý/thương mại phát triển bằng Laravel.
+Website quản lý mua bán rau củ phát triển bằng Laravel.
 
 ### ✨ Tính năng
 - Dynamic UI
@@ -119,6 +119,7 @@ Website xem phim phát triển bằng Java Servlet.
 - Movie browsing interface
 - Dynamic rendering
 - Responsive web layout
+- ChatBot AI
 
 ### 🛠 Công nghệ
 - Java Servlet
@@ -144,7 +145,7 @@ https://github.com/Tunaanhgamedev/Cinema
 # 📫 Liên hệ
 
 - GitHub: https://github.com/Tunaanhgamedev
-- Email: your-email@gmail.com
+- Email: anh2005qpqb@gmail.com
 
 ---
 
