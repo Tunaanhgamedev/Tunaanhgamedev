@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+Chào!+👋;+Mình+là+Tuấn+Anh;" />
 </h1>
 <h2 align="center">🎮 Game Developer | Gameplay Programmer</h2>
-<br/>
 
 ---
 
