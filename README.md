@@ -4,12 +4,6 @@
 
 <h2 align="center">🎮 Game Developer | Gameplay Programmer</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tunaanhgamedev&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Tunaanhgamedev?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Tunaanhgamedev?affiliations=OWNER&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -26,25 +20,39 @@
 ### 🎮 Game Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,cs" />
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
 </p>
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,php,html,css" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,laravel,spring" />
 </p>
 
-### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/Java%20Servlet-MVC-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,firebase,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,vercel,render" />
 </p>
 
 ---
