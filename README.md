@@ -26,10 +26,10 @@
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,php,html,css" />
 </p>
 
-### 🌐 Frameworks & Technologies
+### 🚀 Frameworks & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,laravel,spring" />
@@ -49,10 +49,10 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Tools
+### ☁️ Deployment & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,render" />
 </p>
 
 ---
