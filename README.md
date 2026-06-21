@@ -1,16 +1,16 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+Chào!+👋;+Mình+là+Tuấn+Anh;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Anh+Tuan;" />
 </h1>
+
 <h2 align="center">🎮 Game Developer | Gameplay Programmer</h2>
 
 ---
 
-## 👨‍💻 Giới thiệu
+## 👨‍💻 About Me
 
-- 🎓 Sinh viên ngành Công nghệ Thông tin
-- 🎯 Định hướng trở thành **Game Developer**
-- 🌱 Hiện đang học và phát triển các dự án về **Unity**, **Game Programming** và **Web Development**
+- 🎓 Information Technology Student
+- 🎯 Aspiring Game Developer passionate about gameplay programming and interactive experiences
+- 🌱 Currently developing projects with **Unity**, **Game Programming**, and **Web Development**
 - 📫 **Email:** `anh2005qpqb@gmail.com`
 
 ---
