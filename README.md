@@ -52,7 +52,11 @@
 ### ☁️ Deployment & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,redis,postman,linux,vscode,visualstudio,vercel" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
