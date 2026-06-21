@@ -4,6 +4,12 @@
 
 <h2 align="center">🎮 Game Developer | Gameplay Programmer</h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tunaanhgamedev&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Tunaanhgamedev?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Tunaanhgamedev?affiliations=OWNER&style=flat" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
