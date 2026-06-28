@@ -26,7 +26,7 @@
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,js,ts,php,html,css" />
 </p>
 
 ### 🚀 Frameworks & Technologies
