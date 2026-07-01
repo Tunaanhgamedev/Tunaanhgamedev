@@ -61,19 +61,24 @@
 
 ---
 
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tunaanhgamedev&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Tunaanhgamedev&theme=default&hide_border=true&include_all_commits=false&count_private=false"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunaanhgamedev&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tunaanhgamedev&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Tunaanhgamedev&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Tunaanhgamedev&theme=transparent&hide_border=true"/>
 
 </p>
 
